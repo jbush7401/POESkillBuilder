@@ -1,0 +1,7 @@
+{
+  "name": "POESkillBuilder",
+  "version": "0.0.1",
+  "dependencies": {
+    "d3": "^3.5.16"
+  }
+}
